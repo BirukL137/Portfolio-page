@@ -20,15 +20,15 @@ This project is based on the **Frontend Mentor - Single-page developer portfolio
 - **Accessible by Design** — keyboard navigable, readable contrast, focus states  
 - **No Frameworks Needed** — just HTML, CSS, and small, optional vanilla JS  
 
----
-
 ## 🖼 Preview
 
 ![](./Preview.png)  
 
-Live Demo: **(Add your GitHub Pages or custom domain link here)**  
+### Links
 
----
+- Live Demo: [Github Pages](https://birukl137.github.io/Portfolio-page/)
+
+## My process
 
 ## 🧱 Built With
 
