@@ -9,7 +9,6 @@ This project is based on the **Frontend Mentor - Single-page developer portfolio
 - Editorial-style section headings
 - Consistent hover and focus interactions
 
----
 
 ## ✨ Features
 
@@ -30,7 +29,7 @@ This project is based on the **Frontend Mentor - Single-page developer portfolio
 
 ## My process
 
-## 🧱 Built With
+### 🧱 Built With
 
 | Technology | Purpose |
 |-----------|---------|
@@ -41,7 +40,6 @@ This project is based on the **Frontend Mentor - Single-page developer portfolio
 
 No frameworks. No UI libraries. No bundlers.
 
----
 
 ## 📂 Project Structure
 
@@ -57,7 +55,6 @@ No frameworks. No UI libraries. No bundlers.
 ├── index.html
 └── Preview.png
 
----
 
 ## ✅ License
 
